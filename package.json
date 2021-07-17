@@ -1,0 +1,24 @@
+{
+  "name": "regexp-sticky-perf",
+  "version": "1.0.0",
+  "description": "Measuring Performance of sticky flag of RegExp in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progfay/regexp-sticky-perf.git"
+  },
+  "keywords": [
+    "regexp",
+    "sticky",
+    "benchmark"
+  ],
+  "author": "progfay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/progfay/regexp-sticky-perf/issues"
+  },
+  "homepage": "https://github.com/progfay/regexp-sticky-perf#readme"
+}
